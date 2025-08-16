@@ -1,18 +1,10 @@
-ID
-622
-
-Title
-超ナイト・オブ・ナイツ
-
-超ナイト・オブ・ナイツ
-
-Tags
-All
-
-Other
-
-Category
-Static Image
-
-Actual Playback Time
-130.8s (2m 10.8s)
+{
+  "title": "Chart"
+  "artist": "Unknown Artist",
+  "author": "pheturinan01-tark",
+  "bpm": 180,
+  "song": "song.mp3",
+  "chart": "sasa.sus",
+  "cover": "cover.png",
+  "version": "1.0"
+}
